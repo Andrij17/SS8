@@ -11,6 +11,8 @@ public class Test8 {
         int i, nX1, nX2, nX3, nY1, nY2, nY3;
         boolean arbSet[]=new boolean[5], isPar;
 
+        // lol
+
         //input
         Scanner sin = new Scanner(new FileReader("Pythagoras.txt"));
         for(i=0;i<5;i++){
