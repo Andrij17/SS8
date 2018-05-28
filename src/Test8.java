@@ -15,6 +15,8 @@ public class Test8 {
 
         // lol 2
 
+        // lol 4
+
         //input
         Scanner sin = new Scanner(new FileReader("Pythagoras.txt"));
         for(i=0;i<5;i++){
